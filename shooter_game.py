@@ -82,7 +82,7 @@ font.init()
 my_font = font.SysFont('Arial',36)
 font1 = font.SysFont('Arial' ,90)
 win = font1.render('YOU WIN!!!!', True, (200, 150, 100))
-lose = font1.render("YOU LOSE!!!!!", True, (200, 150, 100))
+lose = font1.render("YOU LOOSER!!!!!!", True, (200, 150, 100))
 reload_time = False
 num_fire = 0
 
